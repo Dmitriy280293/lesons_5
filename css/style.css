@@ -1,0 +1,90 @@
+h3{
+    color: blue;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    
+}
+#start{
+    color: rgba(1, 106, 218, 0.7);
+    text-align: center;
+}
+.water{
+    text-decoration: underline;
+    color: aqua;
+}
+div.text{
+    color: brown;
+}
+.title.text{
+    color: darkmagenta;
+}
+.emposible{
+    text-transform: capitalize;
+    color: darkred;
+    color: darkorange;
+}
+.water,
+.emposible{
+    color: deeppink;
+}
+.text p{
+    color: brown;
+}
+.text .paragraf{
+    color: darkgreen;
+}
+.text *{
+    color: gold;
+}
+.text > p{
+    color: indigo;
+}
+.text ~ p{
+    color: greenyellow;
+}
+.text + p{
+    color: orangered;
+}
+p{
+    font-family: 'Galonia';
+    font-weight: 900;
+}
+h3{
+    font-family: 'BrandStylistDisplay';
+    font-weight: 600;
+}
+h1{
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+.emposible{
+    font-family: 'Galonia', 'sans-serif';
+    font-weight: 900;
+}
+.lising{
+    text-shadow: 3px 2px 2px green;
+}
+.title{
+    font-size: 10px;
+	line-height: 1.2;
+}
+.marg{
+    text-indent: 20px;
+    letter-spacing: 5px;
+    white-space: nowrap;
+}
+li{
+    word-spacing: 20px;
+}
+.block{
+    box-sizing: border-box;
+    background-color: #77608d;
+    padding-bottom: 10px;
+    padding: 15px;
+    width: 500px;
+}
+.text{
+    box-sizing: border-box;
+    background-color: #7A956B;
+    margin-top: 20px;
+}

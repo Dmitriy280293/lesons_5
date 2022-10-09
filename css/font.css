@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap');
+
+@font-face {
+    font-family: 'BrandStylistDisplay';
+    src: url('../font/BrandStylistDisplay.woff2') format('woff2'),
+        url('../font/BrandStylistDisplay.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Galonia';
+    src: url('../font/Galonia.woff2') format('woff2'),
+        url('../font/Galonia.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
